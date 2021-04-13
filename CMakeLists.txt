@@ -5,7 +5,7 @@ SET(CMAKE_CXX_STANDARD 11)
 ADD_SUBDIRECTORY(googletest)
 
 ADD_EXECUTABLE(c-echo-count
-    main2.cpp
+    main.cpp
 )
 
 ADD_EXECUTABLE(test
